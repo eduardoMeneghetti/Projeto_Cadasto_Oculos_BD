@@ -1,0 +1,14 @@
+C:\projetoOculosV2\projetoOculosV2\bin\Debug\projetoOculosV2.exe.config
+C:\projetoOculosV2\projetoOculosV2\bin\Debug\projetoOculosV2.exe
+C:\projetoOculosV2\projetoOculosV2\bin\Debug\projetoOculosV2.pdb
+C:\projetoOculosV2\projetoOculosV2\obj\Debug\projetoOculosV2.csproj.AssemblyReference.cache
+C:\projetoOculosV2\projetoOculosV2\obj\Debug\projetoOculosV2.cidade.resources
+C:\projetoOculosV2\projetoOculosV2\obj\Debug\projetoOculosV2.categoria.resources
+C:\projetoOculosV2\projetoOculosV2\obj\Debug\projetoOculosV2.fornecedor.resources
+C:\projetoOculosV2\projetoOculosV2\obj\Debug\projetoOculosV2.home.resources
+C:\projetoOculosV2\projetoOculosV2\obj\Debug\projetoOculosV2.oculos.resources
+C:\projetoOculosV2\projetoOculosV2\obj\Debug\projetoOculosV2.Properties.Resources.resources
+C:\projetoOculosV2\projetoOculosV2\obj\Debug\projetoOculosV2.csproj.GenerateResource.cache
+C:\projetoOculosV2\projetoOculosV2\obj\Debug\projetoOculosV2.csproj.CoreCompileInputs.cache
+C:\projetoOculosV2\projetoOculosV2\obj\Debug\projetoOculosV2.exe
+C:\projetoOculosV2\projetoOculosV2\obj\Debug\projetoOculosV2.pdb
