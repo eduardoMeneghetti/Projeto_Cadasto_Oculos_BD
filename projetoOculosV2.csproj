@@ -46,11 +46,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="cadastroFunc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cadastroFunc.Designer.cs">
+      <DependentUpon>cadastroFunc.cs</DependentUpon>
+    </Compile>
     <Compile Include="cidade.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="cidade.Designer.cs">
       <DependentUpon>cidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseOculosDataSet.cs">
+      <DependentUpon>DatabaseOculosDataSet.xsd</DependentUpon>
     </Compile>
     <Compile Include="DatabaseOculosDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -62,6 +71,24 @@
     </Compile>
     <Compile Include="categoria.Designer.cs">
       <DependentUpon>categoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaisRelatorios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaisRelatorios.Designer.cs">
+      <DependentUpon>MaisRelatorios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaisRelatoriosPart2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaisRelatoriosPart2.Designer.cs">
+      <DependentUpon>MaisRelatoriosPart2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pesquisas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pesquisas.Designer.cs">
+      <DependentUpon>pesquisas.cs</DependentUpon>
     </Compile>
     <Compile Include="fornecedor.cs">
       <SubType>Form</SubType>
@@ -83,11 +110,23 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="cadastroFunc.resx">
+      <DependentUpon>cadastroFunc.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="cidade.resx">
       <DependentUpon>cidade.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="categoria.resx">
       <DependentUpon>categoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaisRelatorios.resx">
+      <DependentUpon>MaisRelatorios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaisRelatoriosPart2.resx">
+      <DependentUpon>MaisRelatoriosPart2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pesquisas.resx">
+      <DependentUpon>pesquisas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="fornecedor.resx">
       <DependentUpon>fornecedor.cs</DependentUpon>

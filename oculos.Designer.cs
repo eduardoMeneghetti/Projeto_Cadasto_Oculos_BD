@@ -240,6 +240,7 @@
             // 
             this.categoriasBindingSource.DataMember = "Categorias";
             this.categoriasBindingSource.DataSource = this.databaseOculosDataSet;
+            this.categoriasBindingSource.CurrentChanged += new System.EventHandler(this.categoriasBindingSource_CurrentChanged);
             // 
             // databaseOculosDataSet
             // 
@@ -314,6 +315,7 @@
             this.dataGridOculos.Name = "dataGridOculos";
             this.dataGridOculos.Size = new System.Drawing.Size(728, 150);
             this.dataGridOculos.TabIndex = 50;
+            this.dataGridOculos.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridOculos_CellContentClick);
             // 
             // idOculosDataGridViewTextBoxColumn
             // 

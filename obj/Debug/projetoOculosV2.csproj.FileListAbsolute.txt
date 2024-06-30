@@ -12,3 +12,7 @@ C:\projetoOculosV2\projetoOculosV2\obj\Debug\projetoOculosV2.csproj.GenerateReso
 C:\projetoOculosV2\projetoOculosV2\obj\Debug\projetoOculosV2.csproj.CoreCompileInputs.cache
 C:\projetoOculosV2\projetoOculosV2\obj\Debug\projetoOculosV2.exe
 C:\projetoOculosV2\projetoOculosV2\obj\Debug\projetoOculosV2.pdb
+C:\projetoOculosV2\projetoOculosV2\obj\Debug\projetoOculosV2.pesquisas.resources
+C:\projetoOculosV2\projetoOculosV2\obj\Debug\projetoOculosV2.cadastroFunc.resources
+C:\projetoOculosV2\projetoOculosV2\obj\Debug\projetoOculosV2.MaisRelatorios.resources
+C:\projetoOculosV2\projetoOculosV2\obj\Debug\projetoOculosV2.MaisRelatoriosPart2.resources

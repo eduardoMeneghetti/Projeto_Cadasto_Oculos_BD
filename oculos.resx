@@ -121,7 +121,7 @@
   <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAtkAAAIdCAYAAADoNGE8AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        DwAACw8BkvkDpQAAJVdJREFUeF7t3WusbGd52HF8OL5gg3AhvmAfwMUyGGyIAxUEXBLwDRIohaQpKijh
+        DAAACwwBP0AiyAAAJVdJREFUeF7t3WusbGd52HF8OL5gg3AhvmAfwMUyGGyIAxUEXBLwDRIohaQpKijh
         EhsKvoDxBdX3SypVoukHQGqEQwkXlXAIkWoSEoeUAlIlXAUJSyDZUj/4A1JcEQmkRAKJD6vnOWaO3/3u
         d2bW5Zk9M9u/V/opxGftmbXWrFnrv9asPfspf/CtezsAACCPyAYAgGQiGwAAkolsAABIJrIBACCZyAYA
         gGQiGwAAkonsyi1f/Q/d8y58XveUpzzlqAMHD3RXffLK5rQAAOxvY9vwSRfZd/3Nnd01n7m6e+9/eU93
@@ -286,12 +286,6 @@
   <metadata name="categoriasBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>350, 17</value>
   </metadata>
-  <metadata name="categoriasBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>350, 17</value>
-  </metadata>
-  <metadata name="databaseOculosDataSet.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>172, 17</value>
-  </metadata>
   <metadata name="databaseOculosDataSet.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>172, 17</value>
   </metadata>
@@ -302,7 +296,7 @@
     <value>535, 17</value>
   </metadata>
   <metadata name="contextMenuStrip2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 54</value>
+    <value>17, 51</value>
   </metadata>
   <metadata name="fornecedoresBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>172, 54</value>

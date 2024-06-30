@@ -96,6 +96,7 @@
             this.textCidade.Name = "textCidade";
             this.textCidade.Size = new System.Drawing.Size(121, 21);
             this.textCidade.TabIndex = 40;
+            this.textCidade.SelectedIndexChanged += new System.EventHandler(this.textCidade_SelectedIndexChanged);
             // 
             // cadFon
             // 
@@ -158,6 +159,7 @@
             this.idForn.Name = "idForn";
             this.idForn.Size = new System.Drawing.Size(100, 20);
             this.idForn.TabIndex = 43;
+            this.idForn.TextChanged += new System.EventHandler(this.idForn_TextChanged);
             // 
             // label1
             // 
@@ -194,6 +196,7 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(344, 108);
             this.dataGridView1.TabIndex = 46;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // idFornecedorDataGridViewTextBoxColumn
             // 

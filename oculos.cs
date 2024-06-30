@@ -359,5 +359,15 @@ namespace projetoOculosV2
                 this.oculosTableAdapter.Fill(this.databaseOculosDataSet.Oculos);
             }
         }
+
+        private void dataGridOculos_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void categoriasBindingSource_CurrentChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

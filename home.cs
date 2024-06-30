@@ -38,5 +38,17 @@ namespace projetoOculosV2
             cidade cadCidade = new cidade();
             cadCidade.Show();
         }
+
+        private void relatorios_Click(object sender, EventArgs e)
+        {
+            pesquisas pesquisas = new pesquisas();
+            pesquisas.Show();
+        }
+
+        private void cadFunc_Click(object sender, EventArgs e)
+        {
+            cadastroFunc cadFun = new cadastroFunc();
+            cadFun.Show();
+        }
     }
 }

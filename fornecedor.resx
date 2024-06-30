@@ -121,7 +121,7 @@
   <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAtkAAAIdCAYAAADoNGE8AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        EAAACxABrSO9dQAAJ0xJREFUeF7t3WvMLVd5H3B8OL5gg3AhvmAfwMUyGGyIAxUEXBLwDRIohaQpKijh
+        DgAACw4BQL7hQQAAJ0xJREFUeF7t3WvMLVd5H3B8OL5gg3AhvmAfwMUyGGyIAxUEXBLwDRIohaQpKijh
         EhsKvoDxBdX3SypVoukHQGqFSwkXlXAIkWoSEoeUQqRKUIGEJZBsqR/4EAlXRAIpkUDKh+l5jr2P17ve
         NXvPzH72u/d+z29JPyX4zJ69Zs2aZ/4ze/Z+n/IH37q/AwAA8gjZAACQTMgGAIBkQjYAACQTsgEAIJmQ
         DQAAyYRsAABIJmRXbvvqv+ued/Hzuqc85SlHHTh4oLvmk1c3lwUAYH+bmg2Pu5B9z1/d3V33mWu79/6n
@@ -295,11 +295,20 @@
   <metadata name="cidadesBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>195, 17</value>
   </metadata>
+  <metadata name="cidadesBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>195, 17</value>
+  </metadata>
+  <metadata name="databaseOculosDataSet.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
   <metadata name="databaseOculosDataSet.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
   <metadata name="cidadesTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>366, 17</value>
+  </metadata>
+  <metadata name="fornecedoresBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>529, 17</value>
   </metadata>
   <metadata name="fornecedoresBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>529, 17</value>
